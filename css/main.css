@@ -1,4 +1,8 @@
 /* Place CSS styles here */
+.style-link {
+  color: #333;
+}
+
 body {
   background-color: #8DA1A2;
   font-family: 'Inter', sans-serif;
