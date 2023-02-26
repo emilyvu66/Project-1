@@ -1,1 +1,55 @@
 /* Place CSS styles here */
+body {
+  background-color: #8DA1A2;
+  font-family: 'Inter', sans-serif;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Abhaya Libre', serif;
+  color: white;
+  font-size: 50px;
+}
+
+p{
+  align-items: center;
+  line-height: 30px;
+}
+
+.nav-bar-header{
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background: #8DA1A2;
+}
+
+.shop-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  border: 1px solid #999;
+  border-radius: 12px;
+  padding: 12px 24px;
+}
+
+.wrapper-about{
+  display: flex;
+  padding: 40px;
+  padding-left: 320px;
+  padding-right: 320px;
+}
+
+.val-row-3-tiles {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.val-row-3-tile img {
+  padding: 20px;
+}
+
