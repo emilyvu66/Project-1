@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #637979;
+  background-color: #8DA1A2;
   font-family: 'Inter', sans-serif;
   color: white;
   text-align: center;
@@ -26,7 +26,7 @@ p{
   justify-content: space-between;
   position: sticky;
   top: 0;
-  background: #637979;
+  background: #8DA1A2;
 }
 
 .shop-wrapper {
